@@ -1,0 +1,34 @@
+{
+  "name": "first-cache",
+  "version": "1.0.0",
+  "description": "a watchify plugin, provides cache from the first bundle",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wordijp/first-cache"
+  },
+  "keywords": [
+    "component",
+    "components",
+    "browserify",
+    "browserify-plugin",
+    "watchify",
+    "plugin",
+    "first-cache"
+  ],
+  "author": {
+    "name": "wordijp",
+    "email": "wordijp@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "browserify-cache-api": "3.0.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "bugs": {
+    "url": "https://github.com/wordijp/first-cache/issues"
+  },
+  "homepage": "https://github.com/wordijp/first-cache"
+}
